@@ -1,0 +1,31 @@
+table {
+    width: 100%;
+    height: 170px;
+    text-align: center;
+    border: 3px solid black;
+}
+
+th, td {
+    border: 1px solid, black;
+    border-radius: 15px;
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    border-style: solid;
+}
+
+th {
+    background-color: gray;
+    color: white;
+}
+
+.fila-color1{
+    background-color: lightgoldenrodyellow;
+}
+
+.fila-color2 {
+    background-color: lightcyan;
+}
